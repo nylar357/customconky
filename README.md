@@ -9,3 +9,5 @@ Font-Awesome
 
 I used a pip3 installation method.  As awesome fonts usually requires a signup and stuff, pip3 installation was the easiest way to sidestep this.
 
+UPDATE 8/28 
+Added RAM Graph & VM Usage/Total
