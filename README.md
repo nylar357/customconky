@@ -11,3 +11,8 @@ I used a pip3 installation method.  As awesome fonts usually requires a signup a
 
 UPDATE 8/28 
 Added RAM Graph & VM Usage/Total
+
+
+09/29/2019 UPDATE
+Updated symbols for use with ubuntu & used conkycolors symbols instead of fontawesome.
+
